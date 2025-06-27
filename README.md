@@ -8,10 +8,10 @@
 ---
 
 ## 🚀 **Tech Stack**
-- 🌐 HTML | CSS | JavaScript | Bootstrap | Tailwind
+- 🌐 HTML | CSS | JavaScript | Tailwind
 - ⚛️ React | Next.js
-- 🖥️ Node.js (Basics)
-- 📦 Git | GitHub | GitHub Desktop
+- 🖥️ Node.js
+- 📦 Git | GitHub |
 - 🤖 Generative AI tools (ChatGPT, DALL·E, etc.)
 
 ---
@@ -27,8 +27,8 @@ I am continuously improving these and adding more!
 ---
 
 ## 📫 **Let’s Connect**
-- 🌍 [LinkedIn](https://www.linkedin.com/) *(add your link)*
-- 📧 Email: *[your email here]*  
+- 🌍 [LinkedIn](www.linkedin.com/in/sumit-kumar-73a161371) 
+- 📧 Email: *[sumitnandan2025@gmail.com]*  
 
 ---
 
