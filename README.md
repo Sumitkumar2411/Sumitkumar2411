@@ -27,7 +27,8 @@ I am continuously improving these and adding more!
 ---
 
 ## 📫 **Let’s Connect**
-- 🌍 [LinkedIn](www.linkedin.com/in/sumit-kumar-73a161371) 
+- 🌍 [LinkedIn]www.linkedin.com/in/
+sumit-kumar-73a161371) 
 - 📧 Email: *[sumitnandan2025@gmail.com]*  
 
 ---
