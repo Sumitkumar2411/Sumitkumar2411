@@ -26,29 +26,11 @@ I am continuously improving these and adding more!
 
 ---
 
-## 📫 **Let’s Connect**
-- 🌍 [LinkedIn]www.linkedin.com/in/
-sumit-kumar-73a161371) 
-- 📧 Email: *[sumitnandan2025@gmail.com]*  
 
-      <style>
-        .libutton {
-          display: flex;
-          flex-direction: column;
-          justify-content: center;
-          padding: 7px;
-          text-align: center;
-          outline: none;
-          text-decoration: none !important;
-          color: #ffffff !important;
-          width: 200px;
-          height: 32px;
-          border-radius: 16px;
-          background-color: #0A66C2;
-          font-family: "SF Pro Text", Helvetica, sans-serif;
-        }
-      </style>
-<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sumit-kumar-73a161371" target="_blank">Follow on LinkedIn</a>
----
+## 🔗 Let's Connect
+
+[![Follow on LinkedIn](https://img.shields.io/badge/Follow%20on-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/sumit-kumar-73a161371)  
+📧 [sumitnandan2025@gmail.com](mailto:sumitnandan2025@gmail.com)
+
 
 _✨ I believe in learning by doing, and I’m excited to collaborate on real-world projects._  
