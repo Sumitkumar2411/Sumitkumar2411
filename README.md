@@ -26,10 +26,10 @@ I am continuously improving these and adding more!
 
 ---
 
-
 ## 🔗 Let's Connect
 
-[![Follow on LinkedIn](https://img.shields.io/badge/Follow%20on-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/sumit-kumar-73a161371)  
+[![Follow on LinkedIn](https://img.shields.io/badge/Follow%20on-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/sumit-kumar-73a161371)
+
 📧 [sumitnandan2025@gmail.com](mailto:sumitnandan2025@gmail.com)
 
 
