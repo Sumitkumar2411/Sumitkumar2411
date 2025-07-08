@@ -12,7 +12,7 @@
 - ⚛️ React | Next.js
 - 🖥️ Node.js
 - 📦 Git | GitHub |
-- 🤖 Generative AI tools (ChatGPT, DALL·E, etc.)
+- 🤖 Various Generative AI tools 
 
 ---
 
